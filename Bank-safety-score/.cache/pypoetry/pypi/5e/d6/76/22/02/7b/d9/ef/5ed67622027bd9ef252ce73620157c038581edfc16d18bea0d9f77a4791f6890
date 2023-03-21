@@ -1,0 +1,1 @@
+9999999999{"name": "fredapi", "version": "0.5.0", "summary": "Python API for Federal Reserve Economic Data (FRED) from St. Louis Fed", "platform": "Any", "requires_dist": ["pandas"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
